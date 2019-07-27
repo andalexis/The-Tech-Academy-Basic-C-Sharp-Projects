@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeDrill\WelcomeDrill\obj\Debug\WelcomeDrill.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeDrill\WelcomeDrill\bin\Debug\WelcomeDrill.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeDrill\WelcomeDrill\bin\Debug\WelcomeDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeDrill\WelcomeDrill\bin\Debug\WelcomeDrill.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeDrill\WelcomeDrill\obj\Debug\WelcomeDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeDrill\WelcomeDrill\obj\Debug\WelcomeDrill.pdb

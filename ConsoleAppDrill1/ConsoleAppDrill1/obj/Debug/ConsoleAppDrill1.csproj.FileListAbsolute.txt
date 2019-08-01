@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppDrill1\ConsoleAppDrill1\bin\Debug\ConsoleAppDrill1.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppDrill1\ConsoleAppDrill1\bin\Debug\ConsoleAppDrill1.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppDrill1\ConsoleAppDrill1\bin\Debug\ConsoleAppDrill1.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppDrill1\ConsoleAppDrill1\obj\Debug\ConsoleAppDrill1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppDrill1\ConsoleAppDrill1\obj\Debug\ConsoleAppDrill1.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppDrill1\ConsoleAppDrill1\obj\Debug\ConsoleAppDrill1.pdb

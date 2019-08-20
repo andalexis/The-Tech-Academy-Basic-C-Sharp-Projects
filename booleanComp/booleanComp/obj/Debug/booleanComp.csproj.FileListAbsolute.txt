@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\booleanComp\booleanComp\bin\Debug\booleanComp.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\booleanComp\booleanComp\bin\Debug\booleanComp.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\booleanComp\booleanComp\bin\Debug\booleanComp.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\booleanComp\booleanComp\obj\Debug\booleanComp.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\booleanComp\booleanComp\obj\Debug\booleanComp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\booleanComp\booleanComp\obj\Debug\booleanComp.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\booleanComp\booleanComp\obj\Debug\booleanComp.pdb

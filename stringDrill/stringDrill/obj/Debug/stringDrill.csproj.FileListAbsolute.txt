@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\stringDrill\stringDrill\bin\Debug\stringDrill.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\stringDrill\stringDrill\bin\Debug\stringDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\stringDrill\stringDrill\bin\Debug\stringDrill.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\stringDrill\stringDrill\obj\Debug\stringDrill.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\stringDrill\stringDrill\obj\Debug\stringDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\stringDrill\stringDrill\obj\Debug\stringDrill.pdb

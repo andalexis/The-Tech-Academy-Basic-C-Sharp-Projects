@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListDrill\ArrayAndListDrill\bin\Debug\ArrayAndListDrill.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListDrill\ArrayAndListDrill\bin\Debug\ArrayAndListDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListDrill\ArrayAndListDrill\bin\Debug\ArrayAndListDrill.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListDrill\ArrayAndListDrill\obj\Debug\ArrayAndListDrill.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListDrill\ArrayAndListDrill\obj\Debug\ArrayAndListDrill.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListDrill\ArrayAndListDrill\obj\Debug\ArrayAndListDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAndListDrill\ArrayAndListDrill\obj\Debug\ArrayAndListDrill.pdb

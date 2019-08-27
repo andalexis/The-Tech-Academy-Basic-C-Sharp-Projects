@@ -62,7 +62,7 @@ namespace ArrayAndLoopDrill
             string match = userLetter.ToLower();
             
             foreach (string letter in alphabet)
-            {
+			{
                 if (letter == userLetter)
                 {
                     match = letter;
@@ -75,30 +75,32 @@ namespace ArrayAndLoopDrill
             }
             Console.ReadLine();
 
-            //// Drill number 9
-            //List<string> weekNames = new List<string>() { "saturday", "sunday", "friday", "monday", "tuesday", "wednesday", "monday", "thursday", "friday", "saturday", "sunday" };
-            //Console.WriteLine("What is your favorite day of the week?: ");
-            //string day = Console.ReadLine();
-            //string dayMatch = day.ToLower();
+			// Drill number 9
+			List<string> weekNames = new List<string>() { "saturday", "sunday", "friday", "monday", "tuesday", "wednesday", "monday", "thursday", "friday", "saturday", "sunday" };
+			Console.WriteLine("What is your favorite day of the week?: ");
+			string day = Console.ReadLine();
+			string dayMatch = day.ToLower();
 
-            //foreach (string name in weekNames)
-            //{
-            //    if (name == dayMatch)
-            //        Console.WriteLine()
-            //}
+			foreach (string name in weekNames)
+            {
+                if (name == dayMatch)
+                    Console.WriteLine()
+            }
 
-            // Drill number 10
+             Drill number 10
+
+
 
             // Drill number 11
-            List<string> animals = new List<string>() { "Panda", "Monkey", "Lion", "Zebra", "Hippo", "Hippo", "Penguin", "Monkey" };
-            List<string> duplicate = new List<string>.Distinct().ToList();
+            //List<string> animals = new List<string>() { "Panda", "Monkey", "Lion", "Zebra", "Hippo", "Hippo", "Penguin", "Monkey" };
+            //List<string> duplicate = new List<string>.Distinct().ToList();
 
-            foreach (string animal in animals)
-            {
-                if (!animals.Contains(animal))
-                    animals.Add(animal)
+            //foreach (string animal in animals)
+            //{
+              //  if (!animals.Contains(animal))
+                //    animals.Add(animal)
 
-            }
+            //}
 
 
 

@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandeling\ExceptionHandeling\bin\Debug\ExceptionHandeling.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandeling\ExceptionHandeling\bin\Debug\ExceptionHandeling.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandeling\ExceptionHandeling\bin\Debug\ExceptionHandeling.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandeling\ExceptionHandeling\obj\Debug\ExceptionHandeling.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandeling\ExceptionHandeling\obj\Debug\ExceptionHandeling.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandeling\ExceptionHandeling\obj\Debug\ExceptionHandeling.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandeling\ExceptionHandeling\obj\Debug\ExceptionHandeling.pdb

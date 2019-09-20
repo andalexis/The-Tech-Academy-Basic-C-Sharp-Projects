@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace ArrayAndLoopDrill
@@ -56,56 +56,85 @@ namespace ArrayAndLoopDrill
             Console.ReadLine();
 
             // Drill number 6
-            List<string> alphabet = new List<string>() { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" };
+            List<string> alphabet = new List<string>() { "a", "b", "c", "d", "e", "f", "g", "a", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" };
             Console.WriteLine("Type any letter of the alphabet: ");
-            string userLetter = Console.ReadLine();
-            string match = userLetter.ToLower();
-            
+            string userinput = Console.ReadLine();
+            string userLetter = userinput.ToLower();
+
+            // Console.WriteLine(userLetter); // prints lowercase letter
+            // Console.ReadLine();
+
+            bool match = false;
             foreach (string letter in alphabet)
-			{
-                if (letter == userLetter)
+            {
+                if (userLetter == letter)
                 {
-                    match = letter;
-                    Console.WriteLine("You typed the letter " + match);
-                    break; // Drill number 8: the break will stop the execution
+                    Console.WriteLine("You typed the letter " + letter);
+                    // Console.ReadLine();
+                    match = true;
+                    //break; // Drill 8: the break will exit the loop
                 }
-                else // Drill number 7 
-                    Console.WriteLine("That's not a letter of the alphabet...");
-                break;
+
+            }
+            if (match != true)
+            {
+                Console.WriteLine("You didn't type a legit letter of the alphabet..."); //Drill 7
             }
             Console.ReadLine();
 
-			// Drill number 9
-			List<string> weekNames = new List<string>() { "saturday", "sunday", "friday", "monday", "tuesday", "wednesday", "monday", "thursday", "friday", "saturday", "sunday" };
-			Console.WriteLine("What is your favorite day of the week?: ");
-			string day = Console.ReadLine();
-			string dayMatch = day.ToLower();
+            // Drill number 9 
+            List<string> weekNames = new List<string> { "monday", "tuesday", "monday", "wednesday", "thursday", "tuesday", "friday", "satuday", "sunday" };
+            Console.WriteLine("What is your favorite day of the week?: ");
+            string day = Console.ReadLine();
+            string dayMatch = day.ToLower();
+            // Console.WriteLine(dayMatch);
+            Console.ReadLine();
 
-			foreach (string name in weekNames)
+            bool instance = false;
+            int n = 0;
+            //bool instance = false;
+            foreach (string d in weekNames)
             {
-                if (name == dayMatch)
-                    Console.WriteLine()
+                if (dayMatch == d)
+                {
+                    Console.WriteLine("You said " + d + " which is at Index: " + n);
+                    instance = true;
+                }
+                n++;
+            }
+            if (instance != true)
+            {
+                Console.WriteLine("Oops, that wasn't a day of the week!"); //Drill number 10
             }
 
-             Drill number 10
-
-
+            Console.ReadLine();
 
             // Drill number 11
-            //List<string> animals = new List<string>() { "Panda", "Monkey", "Lion", "Zebra", "Hippo", "Hippo", "Penguin", "Monkey" };
-            //List<string> duplicate = new List<string>.Distinct().ToList();
+            List<string> dogBreeds = new List<string> { "Bulldog", "Poodle", "Golden Retriever", "German Shepard", "Bulldog", "Poodle" };
+            List<string> myDistinct = new List<string> ();
+            
+            foreach (string one in dogBreeds)
+            {
+                Console.WriteLine(one);
+            }
 
-            //foreach (string animal in animals)
-            //{
-              //  if (!animals.Contains(animal))
-                //    animals.Add(animal)
+            Console.WriteLine("");
+            foreach (string breed in dogBreeds)
+            {
+                if (myDistinct.Contains(breed))
+                {
+                    Console.WriteLine("The breed " + breed + " has made two apperances so far");
+                }
+                else
+                {
+                    Console.WriteLine("The breed " + breed + " has made one apperances so far");
+                    myDistinct.Add(breed);
+                    
+                }
 
-            //}
+            }
+            Console.ReadLine();
 
-
-
-
-
-        }
+        }     
     }
 }

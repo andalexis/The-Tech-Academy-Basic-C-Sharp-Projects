@@ -16,10 +16,13 @@ namespace MethodsDrill
             int userNumber = Convert.ToInt32(Console.ReadLine());
 
             Math math = new Math();
-            math.SquareNumber(userNumber); // calling method
-            math.DoubleNumber(userNumber);
-            math.Print(); // calling method
-            
+            int variableSquare = math.SquareNumber(userNumber); // calling method
+            int variableDouble = math.DoubleNumber(userNumber);
+            bool variableEven = math.isEven(userNumber);
+            //math.Print(); // calling method
+            Console.WriteLine("The square of that number is " + variableSquare);
+            Console.WriteLine("The value of twice that number is " + variableDouble);
+            Console.WriteLine("This number is even: " + variableEven);
             Console.ReadLine();
 
 

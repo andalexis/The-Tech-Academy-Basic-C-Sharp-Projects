@@ -12,29 +12,26 @@ namespace MethodsDrill
         public int numdouble;
         public bool iseven;
 
-        public void SquareNumber(int userNumber)
+        public int SquareNumber(int userNumber)
         {
             square = userNumber * userNumber;
+            return square;
         }
-
-        public void DoubleNumber(int userNumber)
+        
+        public int DoubleNumber(int userNumber)
         {
             numdouble = userNumber * 2;
+            return numdouble;
         }
 
-        public void isEven(int userNumber)
+        public bool isEven(int userNumber)
         {
             if (userNumber % 2 == 0)
             {
-                iseven = true;
+                iseven = true;    
             }
+            return iseven;
         }
-
-        public void Print()
-        {
-            Console.Write("The square of that number is " + square + "\n");
-            Console.WriteLine("Double of that number is " + numdouble);
-            Console.Write("Is this number even?: " + iseven);
-        }
+        
     }
 }

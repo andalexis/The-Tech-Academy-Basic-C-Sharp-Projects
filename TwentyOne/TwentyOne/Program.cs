@@ -12,13 +12,14 @@ namespace TwentyOne
         {
             Deck deck = new Deck();
             int timesShuffled = 0;
-            deck = Shuffle(deck: deck, times: 3); // deck, 3 is optional parameter
+            deck = Shuffle(deck, out timesShuffled, 3); // deck, 3 is optional parameter
             
             foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine("Times Shuffled {0}", timesShuffled);
             Console.ReadLine();
         }
 

@@ -15,5 +15,7 @@ namespace MethodDrill2
             Console.WriteLine("Your second number stayed the same = {0}", j);
             return;
         }
+
+        
     }
 }

@@ -15,10 +15,11 @@ namespace MethodDrill2
             Console.WriteLine("Type another number: ");
             int value2 = Convert.ToInt16(Console.ReadLine());
 
-            // calling method by value
-            Console.WriteLine("Your values are " + value1 + " and " + value2);
+            
             // calling method by parameters
             Numbers.ModifyValue(value1, value2);
+            // calling method by named parameters
+            Numbers.ModifyValue(i: value1, j: value2);
             Console.ReadLine();
         }
     }

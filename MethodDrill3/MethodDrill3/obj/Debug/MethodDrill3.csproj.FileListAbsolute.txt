@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDrill3\MethodDrill3\bin\Debug\MethodDrill3.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDrill3\MethodDrill3\bin\Debug\MethodDrill3.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDrill3\MethodDrill3\bin\Debug\MethodDrill3.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDrill3\MethodDrill3\obj\Debug\MethodDrill3.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDrill3\MethodDrill3\obj\Debug\MethodDrill3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDrill3\MethodDrill3\obj\Debug\MethodDrill3.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodDrill3\MethodDrill3\obj\Debug\MethodDrill3.pdb

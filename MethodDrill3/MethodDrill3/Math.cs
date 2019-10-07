@@ -25,12 +25,12 @@ namespace MethodDrill3
             return result;
         }
 
-        public string Add(string c)
+        public void Add(string c)
         {
-            int len = c.Length;
-            int num = len + 4;
-            string result = num.ToString();
-            return result;
+            int len = c.Length; // changing to int
+            int num = len + 4; // performing math operation
+            Console.WriteLine(num); // writing it back
+
         }
     }
 }

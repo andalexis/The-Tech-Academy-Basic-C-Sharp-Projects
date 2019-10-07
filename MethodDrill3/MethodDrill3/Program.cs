@@ -18,8 +18,11 @@ namespace MethodDrill3
             Console.WriteLine("Type a decimal number: ");
             decimal math2 = ob.Add(Convert.ToDecimal(Console.ReadLine()));
 
-            Console.WriteLine("Type a word: ");
-            string math3 = ob.Add(Convert.ToString(Console.ReadLine()));
+            Console.WriteLine("Type in another number: ");
+            // string math3 = ob.Add(Console.ReadLine());
+            string math3 = Console.ReadLine();
+            ob.Add(math3);
+
             Console.WriteLine(math1);
             Console.WriteLine(math2);
             Console.WriteLine(math3);

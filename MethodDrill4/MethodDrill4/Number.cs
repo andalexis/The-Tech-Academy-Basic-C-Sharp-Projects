@@ -11,10 +11,6 @@ namespace MethodDrill4
         public void Multiply(int a, int b = 0)
         {
             
-            if (b != 0)
-            {
-                b = 0;
-            }
             int result = a * b;
             Console.WriteLine("first number: {0}", a);
             Console.WriteLine("second number: {0}", b);

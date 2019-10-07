@@ -8,18 +8,28 @@ namespace MethodDrill4
 {
     public class Program
     {
+        
         public static void Main(string[] args)
         {
+            
             Number ob = new Number();
             Console.WriteLine("Type a number: ");
             int num1 = Convert.ToInt16(Console.ReadLine());
-            Console.WriteLine("Would you like to type another number? (y/n): ");
 
+            try
+            {
+                Console.WriteLine("Type another number {optional} or press y to continue: ");
+                int num2 = Convert.ToInt16(Console.ReadLine());
+                ob.Multiply(num1, num2);
+            }
+            catch (Exception ex)
+            {
+                ob.Multiply(num1);
+            }
 
-            int num2 = Convert.ToInt16(Console.ReadLine());
-            //ob.Multiply(num1);
-           ob.Multiply(num1, b: num2);
             Console.ReadLine();
+
+            
         }
     }
 }

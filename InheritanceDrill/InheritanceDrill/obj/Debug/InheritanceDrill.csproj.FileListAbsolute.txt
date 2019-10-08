@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceDrill\InheritanceDrill\bin\Debug\InheritanceDrill.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceDrill\InheritanceDrill\bin\Debug\InheritanceDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceDrill\InheritanceDrill\bin\Debug\InheritanceDrill.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceDrill\InheritanceDrill\obj\Debug\InheritanceDrill.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceDrill\InheritanceDrill\obj\Debug\InheritanceDrill.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceDrill\InheritanceDrill\obj\Debug\InheritanceDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InheritanceDrill\InheritanceDrill\obj\Debug\InheritanceDrill.pdb

@@ -8,8 +8,14 @@ namespace InheritanceDrill
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            Employee person = new Employee();
+            person.FirstName = "Sample";
+            person.LastName = "Student";
+            person.SayName();
+            //Console.ReadLine();
+            
         }
     }
 }

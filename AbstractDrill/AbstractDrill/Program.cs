@@ -15,7 +15,9 @@ namespace AbstractDrill
             person.FirstName = "Sample";
             person.LastName = "Student";
             person.SayName();
-            
+
+            IQuittable employee = new Employee();
+            employee.Quit();
         }
     }
 }

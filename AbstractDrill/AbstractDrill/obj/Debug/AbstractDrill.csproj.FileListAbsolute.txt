@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.pdb

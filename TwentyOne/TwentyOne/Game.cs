@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Game
+    public abstract class Game // base class or abstract class
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers()// not returning anything just printing to console
+        public abstract void Play(); // any class inheriting this class must have this method
+
+        public virtual void ListPlayers()// adds customization
         {
             foreach (string player in Players)
             {

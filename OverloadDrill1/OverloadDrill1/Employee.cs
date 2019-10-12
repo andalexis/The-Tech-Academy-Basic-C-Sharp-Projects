@@ -11,15 +11,29 @@ namespace OverloadDrill1
         //public int Id; // ID
         public int Id { get; set; }
         //
-        public static bool operator == (Employee employee1, Employee employee2)
+        public static bool operator ==(Employee employee1, Employee employee2)
         {
-            employee1.Id.Equals(employee2.Id);
-            return true;
+            if (employee1.Id == employee2.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
         }
 
-        public static bool operator != (Employee employee1, Employee employee2)
+        public static bool operator !=(Employee employee1, Employee employee2)
         {
-            return false;
+            if (employee1.Id != employee2.Id)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }

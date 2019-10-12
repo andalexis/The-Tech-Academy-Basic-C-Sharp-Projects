@@ -17,7 +17,8 @@ namespace OverloadDrill1
             Employee employee2 = new Employee();  // second employee
             employee2.Id = 2; // changing the ID to one returns true
 
-            Console.WriteLine(employee1.Id == employee2.Id);
+            Console.WriteLine(employee1 == employee2);
+            Console.WriteLine(employee1 != employee2);
             Console.ReadLine();
 
             

@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericDrill1\GenericDrill1\bin\Debug\GenericDrill1.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericDrill1\GenericDrill1\bin\Debug\GenericDrill1.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericDrill1\GenericDrill1\bin\Debug\GenericDrill1.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericDrill1\GenericDrill1\obj\Debug\GenericDrill1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericDrill1\GenericDrill1\obj\Debug\GenericDrill1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericDrill1\GenericDrill1\obj\Debug\GenericDrill1.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\GenericDrill1\GenericDrill1\obj\Debug\GenericDrill1.pdb

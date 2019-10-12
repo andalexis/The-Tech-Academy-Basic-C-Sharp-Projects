@@ -8,15 +8,25 @@ namespace AbstractDrill
 {
     public class Employee : Person, IQuittable
     {
-        public override void SayName()
+        public int Id { get; set; }
+
+        public virtual void SayName()
         {
-            base.SayName(); 
+            Console.WriteLine("Name: " + FirstName + " " + LastName + " " + Id);
+            Console.ReadLine();
         }
+
+        //public override void SayName()
+        //{
+        //    base.SayName(); 
+        //}
 
         public void Quit()
         {
             Console.WriteLine("i quit!");
             Console.ReadLine();
         }
+
+        
     }
 }

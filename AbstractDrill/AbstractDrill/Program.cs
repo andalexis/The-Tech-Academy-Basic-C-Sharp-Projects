@@ -14,10 +14,17 @@ namespace AbstractDrill
             Employee person = new Employee();
             person.FirstName = "Sample";
             person.LastName = "Student";
+            person.Id = 1;
             person.SayName();
 
-            IQuittable employee = new Employee();
-            employee.Quit();
+            //Employee person = new Employee();
+            person.FirstName = "Um";
+            person.LastName = "sure";
+            person.Id = 2;
+            person.SayName();
+
+            //IQuittable employee = new Employee();
+            //employee.Quit();
         }
     }
 }

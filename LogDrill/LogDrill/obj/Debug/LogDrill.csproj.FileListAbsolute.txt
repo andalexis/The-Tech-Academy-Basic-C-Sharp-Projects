@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogDrill\LogDrill\bin\Debug\LogDrill.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogDrill\LogDrill\bin\Debug\LogDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogDrill\LogDrill\bin\Debug\LogDrill.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogDrill\LogDrill\obj\Debug\LogDrill.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogDrill\LogDrill\obj\Debug\LogDrill.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LogDrill\LogDrill\obj\Debug\LogDrill.pdb

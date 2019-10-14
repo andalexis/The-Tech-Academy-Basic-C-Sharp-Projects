@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//using Casino.Interfaces;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -36,7 +37,8 @@ namespace TwentyOne
                 Bets[player] = bet; //added entry to dictionary
             }
             // dealer gives player 2 cards and checks for blackjack
-            for (int i = 0; i < 2; i++){
+            for (int i = 0; i < 2; i++)
+            {
                 Console.WriteLine("Dealing...");
                 foreach (Player player in Players)
                 {

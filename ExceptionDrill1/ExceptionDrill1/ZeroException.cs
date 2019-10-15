@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace ExceptionDrill1
 {
-    public class NegativeException : Exception
+    public class ZeroException : Exception
     {
-        public NegativeException()
+        public ZeroException()
             : base() { }
-        public NegativeException(string message)
+        public ZeroException(string message)
             : base(message) { }
     }
-    
 
 }

@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionDrill1\ExceptionDrill1\bin\Debug\ExceptionDrill1.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionDrill1\ExceptionDrill1\bin\Debug\ExceptionDrill1.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionDrill1\ExceptionDrill1\bin\Debug\ExceptionDrill1.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionDrill1\ExceptionDrill1\obj\Debug\ExceptionDrill1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionDrill1\ExceptionDrill1\obj\Debug\ExceptionDrill1.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionDrill1\ExceptionDrill1\obj\Debug\ExceptionDrill1.pdb

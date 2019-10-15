@@ -13,7 +13,7 @@ namespace LogDrill
         {
             Console.WriteLine("Type a number: ");
             string text = Console.ReadLine();
-            File.WriteAllText(@"C:\Users\Student\Documents\GitHub\Logging\LogDrill.txt", text);
+            File.AppendAllText(@"C:\Users\Student\Documents\GitHub\Logging\LogDrill.txt", text + Environment.NewLine);
 
             using (StreamReader file = new StreamReader(@"C:\Users\Student\Documents\GitHub\Logging\LogDrill.txt"))
             {

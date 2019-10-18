@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add</h2>
+
+<form submit="/Add" method="post">
+    <input name="firstName" />
+    <input name="lastName" />
+    <button type="submit">Add Student</button>
+</form>
+
+<!--submit type means it will post the form when clicked-->
+<!--any input values will be sent along with the post request with the
+    "name" attribute as the key in the key/value pair-->
+

@@ -7,16 +7,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NewsletterAppMVC
+namespace NewsletterAppMVC.Models
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class NewsletterEntities : DbContext // partial means can be added to
+    public partial class NewsletterEntities : DbContext
     {
         public NewsletterEntities()
-            : base("name=NewsletterEntities") // connection to database is called
+            : base("name=NewsletterEntities")
         {
         }
     

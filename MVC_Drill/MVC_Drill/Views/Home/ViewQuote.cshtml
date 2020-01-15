@@ -1,0 +1,27 @@
+﻿
+@using MVC_Drill.ViewModels
+@model List<ClientQuoteVM>
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-8 mx-auto shadow">
+        <div class="card card-header text-center">
+            <h5 class="m-0">Your Quote</h5>
+        </div>
+        <div class="card-body">
+            @foreach (var clientinfo in Model) // not formatted right need to pass quote total to the view
+            {
+                using (Html.BeginForm("Display", "Home", FormMethod.Post))
+                {
+                    <input type="hidden" name="Id" value="@clientinfo.QuoteTotal" />
+                    <div class="row">
+                        <div class="col">
+                            <label style="">Quote Total: $ @clientinfo.QuoteTotal per month</label>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
+   
+

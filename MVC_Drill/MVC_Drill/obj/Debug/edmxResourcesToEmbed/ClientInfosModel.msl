@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ClientInfosModelStoreContainer" CdmEntityContainer="ClientInfosEntities1">
+    <EntitySetMapping Name="ClientInfos">
+      <EntityTypeMapping TypeName="ClientInfosModel.ClientInfo">
+        <MappingFragment StoreEntitySet="ClientInfos">
+          <ScalarProperty Name="QuoteTotal" ColumnName="QuoteTotal" />
+          <ScalarProperty Name="CheckCoverage" ColumnName="CheckCoverage" />
+          <ScalarProperty Name="SpeedTickets" ColumnName="SpeedTickets" />
+          <ScalarProperty Name="CheckDUI" ColumnName="CheckDUI" />
+          <ScalarProperty Name="CarModel" ColumnName="CarModel" />
+          <ScalarProperty Name="CarMake" ColumnName="CarMake" />
+          <ScalarProperty Name="CarYear" ColumnName="CarYear" />
+          <ScalarProperty Name="DateofBirth" ColumnName="DateofBirth" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="Removed" ColumnName="Removed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

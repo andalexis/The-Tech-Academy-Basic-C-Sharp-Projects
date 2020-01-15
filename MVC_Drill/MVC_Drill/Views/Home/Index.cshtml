@@ -1,0 +1,48 @@
+﻿<div class=" row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Enter your info to request a Free Car Quote</h5>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("ClientInfo", "Home", FormMethod.Post))
+            {
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <input name="FirstName" type="text" class="form-control" placeholder="FirstName" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="LastName" type="text" class="form-control" placeholder="LastName" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="EmailAddress" type="email" class="form-control" placeholder="sample@sample.com" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="DateofBirth" type="datetime" class="form-control" placeholder="ex. MM/DD/YYYY" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="CarYear" type="number" class="form-control" placeholder="ex. 2005" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="CarMake" type="text" class="form-control" placeholder="ex. Honda" />
+                </div>
+                <div class="form-group col-md-12">
+                    <input name="CarModel" type="text" class="form-control" placeholder="ex. Civic" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label style="float:left; margin-right:10px">Have you ever had a DUI? </label>
+                    <input name="CheckDUI" type="checkbox" class="form-inline" style="height:26px" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label style="float:left; margin-right:10px">How many speedingtickets have you recieved?</label>
+                    <input name="SpeedTickets" type="number" class="form-control" />
+                </div>
+                <div class="form-group col-md-12">
+                    <label style="float:left; margin-right:10px">Would you like to purchase full coverage?</label>
+                    <input name="CheckCoverage" type="checkbox" class="form-inline" style="height:26px" />
+                </div>
+                <button type="submit" class="btn btn-block btn-primary">Submit</button>
+            </div>
+            }
+        </div>
+    </div>
+</div>

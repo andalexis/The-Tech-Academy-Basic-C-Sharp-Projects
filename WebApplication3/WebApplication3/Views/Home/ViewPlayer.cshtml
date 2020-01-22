@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "ViewPlayer";
+}
+
+<h2>ViewPlayer</h2>
+
+<div id="banner">Player List</div>
+<ul data-bind="foreach: countries">
+    <li>
+        <span data-bind="text: name"></span>
+        <ul data-bind="foreach: players">
+            <li>
+                <span data-bind="text: name"></span>
+            </li>
+        </ul>
+    </li>
+</ul>
+

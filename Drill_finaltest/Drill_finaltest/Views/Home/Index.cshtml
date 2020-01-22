@@ -1,0 +1,12 @@
+﻿<title>@ViewBag.Title - Drill</title>
+
+<script src="~/Scripts/myViewModel.js"></script>
+
+<p>First word: <strong data-bind="text: firstWord"></strong></p>
+<p>Second word: <strong data-bind="text: secondWord"></strong></p>
+
+<p>Full sentence: <strong data-bind="text: fullSentence"></strong></p>
+
+
+<script>ko.applyBindings(new myViewModel())</script>
+

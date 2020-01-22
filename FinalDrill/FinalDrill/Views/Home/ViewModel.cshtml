@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "ViewModel";
+}
+
+<h1>ViewModel</h1>
+<!-- Folders -->
+<ul class="folders" data-bind="foreach: folders">
+    <li data-bind="text: $data,
+                   css: { selected: $data == $root.chosenFolderId() },
+                   click: $root.goToFolder"></li>
+</ul>
+
+@*//<script type="text/javascript">*@
+    <script src="C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\FinalDrill\FinalDrill\ViewModel\JavaScript.js">
+        WebmailViewModel(@Html.Raw((Model))); //execute the function
+</script>
+  

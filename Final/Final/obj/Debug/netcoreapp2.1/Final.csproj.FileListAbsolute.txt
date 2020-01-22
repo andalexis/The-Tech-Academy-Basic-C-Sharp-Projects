@@ -1,0 +1,14 @@
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\bin\Debug\netcoreapp2.1\Final.deps.json
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\bin\Debug\netcoreapp2.1\Final.runtimeconfig.json
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\bin\Debug\netcoreapp2.1\Final.runtimeconfig.dev.json
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\bin\Debug\netcoreapp2.1\Final.dll
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\obj\Debug\netcoreapp2.1\Final.csprojAssemblyReference.cache
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\obj\Debug\netcoreapp2.1\Final.csproj.CoreCompileInputs.cache
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\obj\Debug\netcoreapp2.1\Final.RazorAssemblyInfo.cache
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\obj\Debug\netcoreapp2.1\Final.RazorAssemblyInfo.cs
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\obj\Debug\netcoreapp2.1\Final.AssemblyInfoInputs.cache
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\obj\Debug\netcoreapp2.1\Final.AssemblyInfo.cs
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\obj\Debug\netcoreapp2.1\Final.RazorTargetAssemblyInfo.cache
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\bin\Debug\netcoreapp2.1\Final.pdb
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\obj\Debug\netcoreapp2.1\Final.dll
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final\Final\obj\Debug\netcoreapp2.1\Final.pdb

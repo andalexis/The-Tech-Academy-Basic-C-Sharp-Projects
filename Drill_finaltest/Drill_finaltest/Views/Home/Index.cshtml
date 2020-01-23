@@ -1,14 +1,11 @@
-﻿
+﻿<script src="~/Scripts/myViewModel.js"></script>
 <script src="~/Scripts/knockout-3.5.1.js"></script>
 <script src="~/Scripts/knockout-3.5.1.debug.js"></script>
+
 <p>First word: <input data-bind="value: firstWord" /></p>
 <p>Second word: <input data-bind="value: secondWord" /></p>
 <h2>Hello, <span data-bind="text: fullSentence"> </span>!</h2>
 
-
 <script>ko.applyBindings(new myViewModel("Hello", "World"));</script>
 
 
-<script src="~/Scripts/knockout.validation.js"></script>
-
-<script type='text/javascript' src='knockout-3.5.1.js'></script>

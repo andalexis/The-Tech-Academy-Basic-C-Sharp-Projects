@@ -1,12 +1,14 @@
-﻿<title>@ViewBag.Title - Drill</title>
-
-<script src="~/Scripts/myViewModel.js"></script>
-
-<p>First word: <strong data-bind="text: firstWord"></strong></p>
-<p>Second word: <strong data-bind="text: secondWord"></strong></p>
-
-<p>Full sentence: <strong data-bind="text: fullSentence"></strong></p>
+﻿
+<script src="~/Scripts/knockout-3.5.1.js"></script>
+<script src="~/Scripts/knockout-3.5.1.debug.js"></script>
+<p>First word: <input data-bind="value: firstWord" /></p>
+<p>Second word: <input data-bind="value: secondWord" /></p>
+<h2>Hello, <span data-bind="text: fullSentence"> </span>!</h2>
 
 
-<script>ko.applyBindings(new myViewModel())</script>
+<script>ko.applyBindings(new myViewModel("Hello", "World"));</script>
 
+
+<script src="~/Scripts/knockout.validation.js"></script>
+
+<script type='text/javascript' src='knockout-3.5.1.js'></script>

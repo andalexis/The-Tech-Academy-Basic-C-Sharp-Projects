@@ -73,3 +73,5 @@ C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Pro
 C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_finaltest\Drill_finaltest\obj\Debug\Drill_finaltest.csproj.CopyComplete
 C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_finaltest\Drill_finaltest\obj\Debug\Drill_finaltest.dll
 C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_finaltest\Drill_finaltest\obj\Debug\Drill_finaltest.pdb
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_finaltest\Drill_finaltest\obj\Debug\Drill_finaltest.Properties.Resources.resources
+C:\Users\andal\OneDrive\Documents\Code\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Drill_finaltest\Drill_finaltest\obj\Debug\Drill_finaltest.csproj.GenerateResource.cache

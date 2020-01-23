@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drill_finaltest", "Drill_finaltest\Drill_finaltest.csproj", "{F2B2D4CC-5D2A-4D7A-9EBB-DB9D1E67E42B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4D5B52C8-07A4-4AD4-85EC-0E386E14EAA9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\Downloads\knockout-7.x-1.0.tar.gz = ..\..\..\..\..\..\Downloads\knockout-7.x-1.0.tar.gz
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
